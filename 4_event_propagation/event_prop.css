@@ -1,0 +1,26 @@
+.дедушка {
+  font-size: 64px;
+  padding: 40px;
+  border: 2px solid darkgoldenrod;
+  border-radius: 20px;
+  background: white;
+  cursor: pointer;
+}
+
+.отец {
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background: lightgray;
+}
+
+.сын {
+  padding: 30px;
+  border: 2px solid darkseagreen;
+  border-radius: 10px;
+  background: white;
+}
+
+div:hover {
+  border-width: 4px;
+}
